@@ -1,4 +1,9 @@
 {
     "baseUrl": "https://test.crewingcrm.com",
-    "requestTimeout":15000
-  }
+    "requestTimeout":15000,
+      "reporter": "cypress-multi-reporters",
+      "reporterOptions": {
+        "configFile": "reporter.json"
+      }
+    }
+
