@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://test.crewingcrm.com",
+    "requestTimeout":15000
+  }
